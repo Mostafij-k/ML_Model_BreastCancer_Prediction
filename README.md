@@ -6,29 +6,44 @@ This repository presents a complete machine learning workflow for breast cancer 
 The project includes data preprocessing, exploratory data analysis (EDA), feature scaling, model training, evaluation, and comparison of several supervised machine learning models.
 
 ## 📂**Dataset**
-  ✅ Breast Cancer Dataset containing diagnostic features
-  ✅ Traget Variable: Malignent & Benign
+      ✅ Breast Cancer Dataset containing diagnostic features
+      
+      ✅ Traget Variable: Malignent & Benign
   
 ## ☀**Project Contents**
-Exploratory Data Analysis (EDA)
-Data Preprocessing
-Label Encoding
-Feature Scaling
+      ✅ Exploratory Data Analysis (EDA)
+      
+      ✅ Data Preprocessing
+      
+      ✅ Label Encoding
+      
+      ✅ Train-Test Split
+
+      ✅ Feature Scaling 
+
+      ✅ Train model
+
+      ✅ Model Evaluation
 ## ☀**Used Machine Learning Models**
-Logistic Regression (LR)
-Support Vector Classifier (SVC)
-K-Nearest Neighbors (KNN)
-Decision Tree Classifier
-Random Forest Classifier
-XGBoost Classifier
+      ✅ Logistic Regression (LR)
+      
+      ✅ Support Vector Classifier (SVC)
+      
+      ✅ K-Nearest Neighbors (KNN)
+      
+      ✅ Decision Tree Classifier
+      
+      ✅ Random Forest Classifier
+      
+      ✅ XGBoost Classifier
 
 ## ☀**Model Evaluation**
-Accuracy Score,Precision,Recall,F1-Score, ROC Curve, AUC Score
+      ✅ Accuracy Score,Precision,Recall,F1-Score, ROC Curve, AUC Score
 
 ## ☀**Results**
 
-Among the implemented models, ensemble and kernel-based methods such as Random Forest, XGBoost, and SVC demonstrated strong predictive performance for breast cancer classification.
+      ✔Among the implemented models, ensemble and kernel-based methods such as Random Forest, XGBoost, SVC and KNN demonstrated strong (96.49%) predictive performance for breast cancer classification.
 
 ## ☀**Future Improvements**
-Deep learning implementation
-Model deployment using Flask or Streamlit
+     ✔Deep learning implementation
+     ✔Model deployment using Flask or Streamlit
